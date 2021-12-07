@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '理论坞',
-  domain: 'https://llwu.notion.site/cda270cee31c499bb3ae036e22e60395',
+  domain: 'https://llwu.com',
   author: '宇相',
 
   // open graph metadata (optional)
